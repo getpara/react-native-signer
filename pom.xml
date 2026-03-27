@@ -6,5 +6,5 @@
   <groupId>com.github.getpara</groupId>
   <artifactId>react-native-signer</artifactId>
   <version>1.0.0</version>
-  <packaging>aar</packaging>
+  <packaging>pom</packaging>
 </project>
